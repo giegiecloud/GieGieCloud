@@ -8,7 +8,9 @@ GieGieCloud机场，老牌小众机场，开业4年主打一个稳定。
 
 4k秒开，大多数地区0.8X倍率，标准套餐全隧道中转线路，兼有UCloud BGP入口企业级IPLC专线套餐。
 
-主流流媒体全劫持解锁+当地原生IP支持，Netfilx/Hulu/Hbo/Disney+/Dazn/GPT/Tiktok等流媒体，用户用得更放心更安心。
+主流流媒体全劫持解锁，Netfilx/Hulu/Hbo/Disney+/Dazn/GPT/Tiktok等流媒体，用户用得更放心更安心。
+
+当地原生IP支持，节点覆盖全球40+国家和地区。
 
 ## GieGieCloud优惠码
 
