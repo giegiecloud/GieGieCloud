@@ -1,16 +1,42 @@
-## Hi there 👋
+# GieGieCloud机场官网地址
 
-<!--
-**giegiecloud/GieGieCloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+最新地址：[giegiecloud.com](https://pages.giegiecloud.com/)
 
-Here are some ideas to get you started:
+## GieGieCloud介绍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GieGieCloud机场，老牌小众机场，开业4年主打一个稳定。
+
+4k秒开，大多数地区0.8X倍率，标准套餐全隧道中转线路，兼有UCloud BGP入口企业级IPLC专线套餐。
+
+主流流媒体全劫持解锁+当地原生IP支持，Netfilx/Hulu/Hbo/Disney+/Dazn/GPT/Tiktok等流媒体，用户用得更放心更安心。
+
+## GieGieCloud优惠码
+
+经常性优惠码：
+
+2025-10off  半年付/年付 九折 适用于标准套餐
+
+## GieGieCloud价格
+
+|标准套餐|小杯|中杯|大杯|超大杯|
+|----|----|----|----|----|
+|流量|166G|388G|524G|812G|
+|月付|¥13|¥25|¥35|¥48|
+|季付|¥34|¥69|¥96|¥132|
+|半年付|¥68|¥136|¥188|¥259|
+|年付|¥132|¥270|¥369|¥512|
+
+|专线套餐|小杯|中杯|大杯|
+|----|----|----|----|
+|流量|64G|128G|256G|
+|月付|¥19|¥29|¥49|
+|季付|¥56|¥87|¥147|
+|半年付|¥112|¥174|¥294|
+|年付|¥228|¥348|¥588|
+
+**长期套餐**
+长期套餐，流量购买后一次性到账，可长期使用不过期。
+|套餐价格|小杯|中杯|大杯|
+|----|----|----|----|
+|流量|100G|500G|1000G|
+|一次性|¥49.99|¥179.99|¥359.99|
