@@ -1,6 +1,6 @@
-# GieGieCloud最新地址
+# GieGieCloud官网地址
 # GieGieCloud 2026最新地址
-# GieGieCloud机场官网地址
+# GieGieCloud机场最新地址
 
 最新地址：[giegiecloud.com](https://pages.giegiecloud.com/)
 
